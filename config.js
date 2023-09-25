@@ -14,24 +14,24 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = '' QueenNilu;;;ov5xTDRK#R0YU1EP67iyMZQY0r1vOnMx0-xZIcuwZdgFeuWCWyOs// PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = ''postgres://lakiya34_user:pXmqny9nQ3cdBEtWUoTbIyPPtTCFBEr8@dpg-ck37kumru70s73c0gs70-a.frankfurt-postgres.render.com/lakiya34
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94778699702'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'LAKIYA_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,11 +41,11 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ǫᴜᴇᴇɴ LUKI'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@LAKIYA 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
@@ -57,7 +57,7 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = 'HI BABA OYAT KOHOMD' // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
 
